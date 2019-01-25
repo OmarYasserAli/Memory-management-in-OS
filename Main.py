@@ -2,9 +2,6 @@ import sys
 from PyQt4.QtGui import *
 from PyQt4.QtCore import *
 
-
-
-
 class Process:
 	def __init__(self,size):
 		self.size=size
